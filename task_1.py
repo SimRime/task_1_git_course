@@ -15,6 +15,11 @@ def divide(x, y):
 def exponentiate(x, y):
    return x ** y
 
+x = input('Enter your first number: ')
+y = input('Enter your second number: ')
+
+
+
 # Task 1: Implement a function for Exponentiation operation, similar to the existing functions above.
 # Task 2: Create an interactive user input for the calculator, allowing the user to pick an operation and input numbers.
 
