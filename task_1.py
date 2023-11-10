@@ -15,8 +15,11 @@ def divide(x, y):
 def exponentiate(x, y):
    return x ** y
 
-x = input('Enter your first number: ')
-y = input('Enter your second number: ')
+
+x = input('Select first numbre')
+y = input('Select second numbre')
+op = input('Select type of operation')
+
 
 
 
